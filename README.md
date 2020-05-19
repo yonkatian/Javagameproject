@@ -15,3 +15,6 @@ Mastermind . A simple code breaker game using 4 variable(color code) to break th
 1) Add more color variable choice 
 2) Enchance the gridbaglayout to display the output accordingly.
 
+
+# Potential third game 
+Tic-Tac-Toe
