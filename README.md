@@ -1,5 +1,6 @@
 # Javagameproject
 This is just a simiple Java swing,awt program. Which consist of multiple game.That is playable by mouse(clickable) event only.
+The .java file is store under /src directory
 
 # First Game
 This is a simiple Random number Guess where user had to guess the random number generated between 1 to 10-000 using least amount of tries if possible.
